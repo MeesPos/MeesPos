@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeesPos&show_icons=true" />
 </a>
  
-<a href="https://github.com/MeesPos">
+<a href="https://github.com/MeesPos" style="margin-top: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeesPos&layout=compact" />
 </a>
   
